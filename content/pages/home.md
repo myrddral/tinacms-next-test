@@ -1,8 +1,8 @@
 ---
 header: Get Started by editing app/page/tsx
 logo:
-  url: /next.svg
-  alt: NextJS
+  url: /inkarno-header_en.png
+  alt: Inkarno logo
 links:
   - header: Docs
     description: Find in-depth information about Next.js features and API.
